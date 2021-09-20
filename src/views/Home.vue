@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="home container">
     <div>
       <h1 class="fw-bolder">TODO</h1>
     </div>
